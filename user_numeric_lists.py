@@ -11,25 +11,7 @@ import math
 # define some functions
 
 
-def get_area_of_lot(length, width):
-    """
-    Return area of a lot given the length and width of the lot.
 
-    Could this fail?
-
-    """
-
-    # Use a try / except / finally block when something
-    # could go wrong
-    try:
-        area = 0  # fix this
-        return area
-    except Exception as ex:
-        print(f"Error: {ex}")
-        return None
-
-
-# define more functions here (see instuctions)
 
 
 # -------------------------------------------------------------
