@@ -3,12 +3,17 @@ Modify this docstring.
 
 """
 
-# import some modules first - how many can you make use of?
-
+# import some standard modules first - how many can you make use of?
 import math
 
 
-# define some functions
+# TODO: import from local util_datafun_logger.py 
+
+# TODO: Call the setup_logger function to create a logger and get the log file name
+
+# TODO: Create some shared data lists if you like - or just create them in your functions
+
+# TODO: define some custom functions
 
 
 
@@ -24,23 +29,7 @@ import math
 if __name__ == "__main__":
 
     # call your functions here (see instructions)
-    print("your code here")
+    print("Replace this with calls to your functions." )
 
 
-# Why? Why only print if this the module called?
-# Because when you write good functions, you may want to
-# import this module into another script - just like you did
-# math or statistics.
-# Build a library of resuable functions to support your domain.
-
-# For example, if your domain:
-# Is sports, create functions to provide a list of teams.
-# Is pets, create functions to calculate adoption prices.
-# Is music, create functions to return a list of your favorite artists.
-
-
-# When you write reusable functions for your domain, you can
-# import the module with your utility functions into other modules
-# and use them there.  This is a very common practice.
-# Anything you write can be imported into later projects.
 

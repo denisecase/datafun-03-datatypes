@@ -3,14 +3,8 @@
 > Practice with Python data types, filter(), map(), and list comprehensions
 
 
-## Task 1 - Fork this Repo
+## Get Started
 
-Fork this repo into your GitHub account.
-
-## Task 2 - Clone Your Repo 
-
-Clone your new repo down to your machine.
-
-## Task 3 - Open the Project Locally
-
-Open the project in VS Code. 
+1. Log in to GitHub and fork this repo into your own GitHub account.
+1. On your machine, open VS Code and clone YOUR repo down to your machine.
+1. Open the whole folder in VS Code for editing. 
